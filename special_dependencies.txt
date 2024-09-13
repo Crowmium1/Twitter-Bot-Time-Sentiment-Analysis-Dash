@@ -1,0 +1,16 @@
+alembic==1.12.0
+blinker==1.6.3
+click==6.7
+Flask==0.12.2
+Flask-Login==0.4.0
+Flask-Migrate==4.0.5
+Flask-SQLAlchemy==2.3.2
+itsdangerous==0.24
+Jinja2==2.9.6
+Mako==1.2.4
+MarkupSafe==1.0
+mysql-connector-python==8.0.29
+protobuf==4.24.4
+SQLAlchemy==1.1.14
+typing_extensions==4.8.0
+Werkzeug==0.12.2
